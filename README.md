@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2019<br>
-📚 I'm currently learning python and C/C++<br>
+📚 I'm currently learning python and rust<br>
 </p>
 
 ###
